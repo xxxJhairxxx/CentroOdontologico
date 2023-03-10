@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ContactTop = styled.div`
-  width: 28%;
+  width: 40%;
   display: flex;
   justify-content: space-between;
   flex-wrap: nowrap;
