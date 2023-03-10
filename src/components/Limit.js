@@ -7,6 +7,7 @@ export const Limit = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  ${props => props.mt? "margin: 5% auto" : "0"};
   align-items: ${props => props.align=="center" ? "center" : "start"};
 
   ` 

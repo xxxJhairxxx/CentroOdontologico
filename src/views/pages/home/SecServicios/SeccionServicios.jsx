@@ -1,7 +1,7 @@
 import { Limit } from "../../../../components/Limit"
 import { Thumb } from "./Styled-components/Thumb";
 import {ServicesContainer} from "./Styled-components/ServicesContainer"
-import ServiceCard from "./Componente/ServiceCard"
+import ServiceCard from "./Styled-components/ServiceCard"
 import { Encabezado } from "../../../../components/Encabezado";
 import services from "../../../../assets/Images/services.png"
 import icon01 from "../../../../assets/Images/icon/fe-icon01.png"
