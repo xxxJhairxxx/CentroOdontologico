@@ -15,16 +15,18 @@ const SeccionAbout = () => {
             </Thumb>
             <AboutContainer>
                 <Encabezado start>
-                    <h4>Sobre Nosotros</h4>
-                    <h2>Nos Dedicamos a Tu Salud Dental</h2>
+                    <h4>AL SERVICIO DE TU SONRISA</h4>
+                    <h2>Somos <br /> DenCare Perú</h2>
                 </Encabezado>
-                <p>Aliquam ac sem et diam iaculis efficitur. Morbi in enim odio. Nullam quis volutpat est, 
-                    sed dapibus sapien. Cras condimentum eu velit id tempor. Curabitur purus sapien, 
-                    cursus sed nisl tristique, commodo vehicula arcu.
+                <p>Brindamos a nuestros pacientes la mejor experiencia dental con un servicio integral con 
+                    múltiples alternativas de tratamiento, enfocado a sus necesidades, expectativas y posibilidades,
+                     con un excelente equipo humano y profesional, con una excelencia en la calidad y tecnología de
+                      última generación, a valores accesibles con un alto énfasis en la prevención y salud bucal.
                 </p>
-                <p>Aliquam erat volutpat. Aliquam enim massa, sagittis blandit ex mattis, ultricies posuere
-                     sapien. Morbi a dignissim enim. Fusce elementum, augue in elementum porta, sapien nunc
-                      volutpat ex, a accumsan nunc lectus eu lectus.</p>
+                <p>¿Por qué elegirnos? Creemos que para agregar valor a nuestros servicios es necesario poseer una visión
+                     profesional que nos permita capturar la sensibilidad de nuestros pacientes y construir relaciones
+                     permanentes y confiables, con cada uno de ellos.
+                </p>
                 <Boton>
                     LEER MAS
                 </Boton>
